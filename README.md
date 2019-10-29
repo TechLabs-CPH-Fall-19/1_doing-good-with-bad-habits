@@ -2,7 +2,7 @@
 This is the repository for Project Group 1 - Doing Good with Bad Habits. 
 > repository = "a central location in which data is stored and managed."
 
-How to get started:
+### How to get started:
 1. Read through the following tutorial to **get an overview of what Git & GitHub is and why you need it**: 
 
    http://bit.ly/2PdSeE5
